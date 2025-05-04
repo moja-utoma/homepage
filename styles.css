@@ -165,8 +165,8 @@ body {
   margin-bottom: 15px;
 }
 
-.skills__list{
-  &>li >span{
+.skills__list {
+  & > li > span {
     font-weight: bold;
   }
 }
@@ -240,7 +240,7 @@ body {
   margin-bottom: 20px;
 }
 
-.additional-info__education-university{
+.additional-info__education-university {
   margin-bottom: 1rem;
 }
 
