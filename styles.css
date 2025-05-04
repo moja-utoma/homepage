@@ -67,8 +67,6 @@
     }
   }
   
-  Contact info styles
-  
   .contact-info__header,
   .contact-info__sub-header {
     text-align: center;
@@ -90,10 +88,13 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
+    width: 33%;
   }
   
   .contact-info__block--center {
     justify-content: center;
+    align-items: center;
   }
   
   .contact-info__item {
